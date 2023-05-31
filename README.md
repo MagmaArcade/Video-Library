@@ -1,5 +1,5 @@
 # Video-Library
-Welcome to Video-Library, a Visual Basic project developed for a high school assignment. The main inspiration behind this project was to create a cataloging system for the extensive collection of DVDs we own, providing a convenient solution for accessing and viewing them.
+Welcome to Video-Library, a Visual Basic project developed for a high school assignment using Visual Studios 2012. The main inspiration behind this project was to create a cataloging system for the extensive collection of DVDs we own, providing a convenient solution for accessing and viewing them.
 
 To run the program, please follow these steps:
 1. Navigate to the folder: \Video Library\bin\Debug
