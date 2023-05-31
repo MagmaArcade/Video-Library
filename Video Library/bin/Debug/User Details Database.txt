@@ -1,0 +1,40 @@
+Admin
+123456
+UVC0001.txt
+Authority 1
+Nathan
+Hoorbakht
+Nathan@gmail.com
+412000111
+24 Australia rd
+Wednesday, 9 April 2003
+Blobber335
+Y33t1o
+UVC0002.txt
+Authority 0
+Bobby
+Fisher
+Bobby.Fisher@gmail.com
+414444765
+25 Australia rd
+Tuesday, 8 January 2019
+Jason653
+Yolo952
+UVC0003.txt
+Authority 0
+Jason
+Kolo
+Jason.kolo@gmail.com
+444982876
+26 Australia rd
+Thursday, 13 February 2020
+JohnP
+12345
+UVC0004.txt
+Authority 0
+John
+Peterson
+johnP@gmail.com
+1234567890
+23 Christmas rd
+Thursday, 6 June 1996

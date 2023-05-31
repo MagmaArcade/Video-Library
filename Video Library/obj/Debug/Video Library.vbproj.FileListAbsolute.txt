@@ -1,0 +1,40 @@
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\bin\Debug\Video Library.exe.config
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Home.resources
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Login.resources
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Resources.resources
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Register.resources
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Search.resources
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Settings.resources
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video Library.vbproj.GenerateResource.Cache
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\bin\Debug\Video Library.exe
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\bin\Debug\Video Library.pdb
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\bin\Debug\Video Library.xml
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video Library.exe
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video Library.xml
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video Library.pdb
+c:\users\hoo0001\documents\visual studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.AddVideo.resources
+C:\Users\HOO0001\Documents\Visual Studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Explore.resources
+C:\Users\HOO0001\Documents\Visual Studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.Edit.resources
+C:\Users\HOO0001\Documents\Visual Studio 2012\Projects\Video Library\Video Library\obj\Debug\Video_Library.UpdateDelete.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video Library.exe
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video Library.xml
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video Library.pdb
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.AddVideo.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Explore.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.UpdateDelete.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Home.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Login.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Resources.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Register.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Edit.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Search.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video_Library.Settings.resources
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video Library.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Video Library\Video Library\bin\Debug\Video Library.exe.config
+C:\Users\User\Desktop\projects\Video Library\Video Library\bin\Debug\Video Library.exe
+C:\Users\User\Desktop\projects\Video Library\Video Library\bin\Debug\Video Library.pdb
+C:\Users\User\Desktop\projects\Video Library\Video Library\bin\Debug\Video Library.xml
+C:\Users\User\Desktop\projects\Video Library\Video Library\bin\Debug\Video Library.exe.manifest
+C:\Users\User\Desktop\projects\Video Library\Video Library\bin\Debug\Video Library.application
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video Library.exe.manifest
+C:\Users\User\Desktop\projects\Video Library\Video Library\obj\Debug\Video Library.application
